@@ -193,7 +193,6 @@ ul{
     overflow: hidden;
     margin-bottom: 2%;
     display: -webkit-flex;
-    cursor: pointer;
 }
 
 .school_announcement_pic_title{
@@ -210,7 +209,9 @@ ul{
 }
 .school_announcement_list a{
 }
-
+.school_announcement_list_iteams{
+    cursor: pointer;
+}
 .footer{
     position:fixed; bottom:0;
     width:100%;
