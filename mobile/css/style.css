@@ -208,7 +208,7 @@ ul{
     color: darkgray;
 }
 .school_announcement_list a{
-    display: block;
+    display: inline-block;
 }
 
 .footer{
