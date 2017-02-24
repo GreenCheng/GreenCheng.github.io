@@ -193,6 +193,7 @@ ul{
     overflow: hidden;
     margin-bottom: 2%;
     display: -webkit-flex;
+    cursor: pointer;
 }
 
 .school_announcement_pic_title{
@@ -208,8 +209,6 @@ ul{
     color: darkgray;
 }
 .school_announcement_list a{
-    cursor: pointer;
-    display: block;
 }
 
 .footer{
